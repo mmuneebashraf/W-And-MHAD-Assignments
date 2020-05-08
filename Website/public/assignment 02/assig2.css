@@ -1,0 +1,15 @@
+.form{
+	background-color: rgb(98,40,231);
+	color: rgb(12, 11, 11);
+	/*text-align: center;*/
+	width: 80%;
+	margin:0px auto;
+	padding: 20px;
+
+}
+.logo{
+	text-align: center;
+}
+h1{
+	color: darkviolet;
+}
